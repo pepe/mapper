@@ -1,8 +1,8 @@
 # Simple Mapper
 
-This repository shows implementation of simple mapper mechanism.
+Implementation of the simple mapper mechanism.
 
-Main mapper class is documented. Usage can be seen in the spec. The most
+The main mapper class is documented. Usage can be seen in the spec. The most
 important thing is the mapping, which is hash with simple tree describing how
 attributes are mapped to the class.
 

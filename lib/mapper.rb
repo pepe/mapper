@@ -19,7 +19,7 @@ class Mapper
   end
 
   # input - Input values array.
-  #   Each Element is mapped to one instance of the ProductClass
+  #   Each Element is mapped to one instance of the product_class type
   def map(input)
     output_arr = []
 
